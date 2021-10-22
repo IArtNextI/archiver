@@ -13,8 +13,8 @@ tend to have a shorter encoding word length.
 ## Installation
 
 ```
-mkdir archiver/build
-cd archiver/build
+mkdir build
+cd build
 cmake .. && make 
 ```
 
